@@ -4,7 +4,7 @@ This project explores numeric prediction models to estimate customer spending be
 
 ---
 
-## 📁 Dataset Overview
+## Dataset Overview
 
 - **Attributes**: Includes consumer demographics and behavioral variables
 - **Target Variables**:
@@ -13,7 +13,7 @@ This project explores numeric prediction models to estimate customer spending be
 
 ---
 
-## 🔍 Project Tasks
+## Project Tasks
 
 ### Task (a): Predict Spending (All Records)
 
@@ -44,7 +44,7 @@ This project explores numeric prediction models to estimate customer spending be
 
 ---
 
-## 🧠 Key Takeaways
+## Key Takeaways
 
 - **Nested cross-validation** played a key role in unbiased model selection and generalization
 - **SVM and Tree-based models** showed strong performance after tuning
@@ -53,7 +53,7 @@ This project explores numeric prediction models to estimate customer spending be
 
 ---
 
-## 🏆 Best Model Summary
+## Best Model Summary
 
 | Dataset       | Model           | RMSE   |
 |---------------|------------------|--------|
